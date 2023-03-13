@@ -1,0 +1,16 @@
+{
+  "name": "fundamentos-node",
+  "version": "1.0.0",
+  "description": "Fundamentos de NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "JS",
+    "Fundamentos"
+  ],
+  "author": "Victor Bejarano alejandrobjrn4@gmail.com",
+  "license": "MIT"
+}
